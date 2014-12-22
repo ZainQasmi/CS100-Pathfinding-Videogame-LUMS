@@ -1,13 +1,11 @@
-## Title ##
+## Space_Escape ##
 
- text text text ...
-ZAIN
+CS 101 - Final Project
 
 * Section
 
-text text text ...
-QASMI 
+MATLAB 
 		
 	* Subsection
 
-text text text ...
+Muhammad Zain Qasmi
